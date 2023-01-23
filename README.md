@@ -1,7 +1,9 @@
-# Project 2 - Maple Homes
+# Project 4 - Advanced Machine Learning (WIP)
 
 ## Overview
-1. This is GitHub repository represents the final project submission for Greg Osborne's Third project at FlatIron school. The project assignment was to analyze a selected set of data for churn rate predictions to present to Telecom.
+1. This is GitHub repository represents the final project submission for Greg Osborne's fourth project at FlatIron school. The project assignment was to ***Insert Text***.
+## Work In Progress
+1. Everything below this line is a readme from the previous project regarding Telecom and churn classification. This placeholder readme will be edited towards the end of this project.
 ## Business Understanding
 1. Telecom wants to limit their customer departure rate, or churn rate, to as low as possible.
 2. I made business recommendations based on the following three variables:
