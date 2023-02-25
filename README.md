@@ -1,7 +1,7 @@
 # Project 4 - Advanced Machine Learning (WIP)
 
 ## Overview
-1. This is GitHub repository represents the final project submission for Greg Osborne's fourth project at FlatIron school. The project assignment was to ***Insert Text***.
+1. This GitHub repository is a work in progress for Greg Osborne's fourth project at FlatIron school. The project assignment was to ***Insert Text***.
 ## Work In Progress
 1. Everything below this line is a readme from the previous project regarding Telecom and churn classification. This placeholder readme will be edited towards the end of this project.
 ## Business Understanding
