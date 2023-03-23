@@ -42,6 +42,7 @@ Greg Osborne accepted the challenge to build such a tool.
     * ![True Targets vs. Predicted Targets](Visualizations/TrueVsPred.png)
     * ![Word Associations : Google](Visualizations/WA-Google.png)
     * ![Word Associations : Android](Visualizations/WA-Android.png)
+    * ![Word Associations : Android](Visualizations/WA-Android-Negative.png)    
     * ![Word Associations : Apple](Visualizations/WA-Apple.png)
     * ![Word Associations : Google](Visualizations/WA-Google.png)
     * ![Word Cloud](Visualizations/WordCloud.png)
