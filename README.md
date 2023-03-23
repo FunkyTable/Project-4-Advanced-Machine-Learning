@@ -37,26 +37,21 @@ Greg Osborne accepted the challenge to build such a tool.
 1. Source of data
       * All data used in this project was from Tweets during the 2011 SXSW festival. The tweets were selected by a separate entity. The tweets were all had labeled emotions, but they did not all have labeled companies or products discussed. Data cleaning was necessary. 
 3. Visualizations
-  Seven visualizations that are also in the notebooks.
+  Eight visualizations that are also in the notebooks.
     * ![Confusion Matrix](Visualizations/ConMatrix.png)
     * ![True Targets vs. Predicted Targets](Visualizations/TrueVsPred.png)
     * ![Word Associations : Google](Visualizations/WA-Google.png)
     * ![Word Associations : Android](Visualizations/WA-Android.png)
     * ![Word Associations : Android](Visualizations/WA-Android-Negative.png)    
     * ![Word Associations : Apple](Visualizations/WA-Apple.png)
-    * ![Word Associations : Google](Visualizations/WA-Google.png)
+    * ![Word Associations : Google](Visualizations/WA-iPad.png)
     * ![Word Cloud](Visualizations/WordCloud.png)
-  Ten graphics exclusively for aesthetics in the Google Slides doc.
+  Five graphics exclusively for aesthetics in the Google Slides doc.
     * ![Crowd](Visualizations/Crowd.jpg)
     * ![Commission](Visualizations/Commission.jpg)
-    * ![Improve](Visualizations/Improve.jpg)
     * ![Data Science](Visualizations/DataScience.png)
-    * ![Maps](Visualizations/Maps.png)
     * ![NLP](Visualizations/NLP.png)
-    * ![Play](Visualizations/Play.png)
-    * ![Plus](Visualizations/Plus.png)
     * ![Questionmark](Visualizations/Questionmark.jpg)
-    * ![Twitter](Visualizations/Twitter.jpg)
 
 ## Conclusion
 The analysis of the tweets available make it clear that Google is quite behind Apple in terms of both discussion and positive sentiment. To turn this around, I recommend:
