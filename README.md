@@ -109,12 +109,12 @@ A repeated complaint for Android users was simply that apps that were already av
   ├── Visualizations : images used in PPT and readme
 ├──Notebook-Word-Associations.pdf : PDF copy of Notebook for testing Data
 ├──Notebook.pdf : Print of main Jupyter Notebook used for modeling 
-├──github.pdf : PDF of repository
 ├──Presentation.pdf : Presentation for Stakeholders
-├──Notebook.pdf print of jupyter notebook used for modeling
-├──Student.ipynb : Jupyter Notebook
 ├──README.md : Project information and repository structure
-├──judge-1377884607_tweet_product_company.csv
-└──
+├──github.pdf : PDF of repository
+├──judge-1377884607_tweet_product_company.csv : The raw data analyzed
+├──Student-Word2Vec-Workspace.ipynb : Jupyter Notebook for testing Data
+└──Student.ipynb : Jupyter Notebook
+
 ```
 
